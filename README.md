@@ -30,7 +30,7 @@
 <!-- EXEMPLO DE DESCRIÇÃO DE UM PROJETO: -->
 - App (Pasta que armazena a pasta livewire )
 - Livewire (Pasta onde estão localizados os componetes)
-- Ressources (pasta onde estão localizadas as views
+- Ressources (pasta onde estão localizadas as views)
 - Routes (onde estão localizadas as rotas)
  
   
@@ -69,7 +69,7 @@ O desafio proposto para este projeto com o nome de Livewire-Introdução foi par
 ### Widget
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-![Mobile1](https://github.com/user-attachments/assets/ec1a871d-4d6e-47bc-9f64-2ea0c5076e2b)
+![Mobile1](https://github.com/devAndressa/Livewire-Introducao/blob/main/imagens/livewire.png)
 )<br>
 
 
@@ -81,11 +81,10 @@ O desafio proposto para este projeto com o nome de Livewire-Introdução foi par
 ## 🚀 Como executar o projeto
 
 1 - Baixar o Projeto <br>
- -Após clonar o projeto entre na pasta cadastro-clientes. <br>
- COMANDO -> cd cadastro-clientes  <br>
+ -Após clonar o projeto entre na pasta live. <br>
+ COMANDO -> cd live  <br>
 2 - Para rodar o projeto  <br>
- COMANDO -> depois do projeto aberto é so ir na pasta src/
- io.github.andre07kms.clientes/main
+ COMANDO -> php artisan serve
 
 <!-- ---------------------------------------------------------------------- -->
 
@@ -94,8 +93,8 @@ O desafio proposto para este projeto com o nome de Livewire-Introdução foi par
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [GitHub](https://github.com/), <br>
-[PostegreSQL](https://www.postgresql.org/download/). <br>
-Além disto é bom ter um editor para trabalhar com o código como [InteliJ IDEA](https://www.jetbrains.com/idea/download/?section=windows)
+[Livewire](https://laravel-livewire.com/). <br>
+Além disto é bom ter um editor para trabalhar com o código como [VsCode](https://code.visualstudio.com/Download)
 
 ---
 
@@ -106,10 +105,10 @@ Além disto é bom ter um editor para trabalhar com o código como [InteliJ IDEA
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Front-End**  ([Intelij](https://laravel.com/docs/11.x)) 
+#### **Front-End**  ([VsCode](https://code.visualstudio.com/Download)) 
 
--   **[Java](https://www.java.com/pt-BR/)**
--   **[PostegreSQL](https://www.postgresql.org/download/)**
+-   **[Livewire](https://laravel-livewire.com/)**
+-   **[Composer](https://getcomposer.org/)**
   
 
 <!-- ---------------------------------------------------------------------- -->
